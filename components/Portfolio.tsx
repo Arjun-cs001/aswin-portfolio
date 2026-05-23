@@ -1,6 +1,10 @@
 import React from 'react';
 
 const thumbnails = [
+  "https://res.cloudinary.com/dda3aguyo/image/upload/q_auto/f_auto/v1779505023/Untitled-1_nfr2lo.jpg",
+  "https://res.cloudinary.com/dda3aguyo/image/upload/q_auto/f_auto/v1779505023/fish_tank_1x_1-1_de75y5.jpg",
+  "https://res.cloudinary.com/dda3aguyo/image/upload/q_auto/f_auto/v1779505024/dhurandar_2_ayush_osgwba.png",
+  "https://res.cloudinary.com/dda3aguyo/image/upload/q_auto/f_auto/v1779505372/bbeef_ioublg.png",
   "https://res.cloudinary.com/dcnz8e0nz/image/upload/v1775999374/white_2_wai1cu.jpg",
   "https://res.cloudinary.com/dcnz8e0nz/image/upload/v1775999369/techno_ayvavu.png",
   "https://res.cloudinary.com/dcnz8e0nz/image/upload/v1775999223/3_yjzgso.jpg",
