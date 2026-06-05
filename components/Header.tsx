@@ -9,6 +9,17 @@ interface HeaderProps {
 export const Header: React.FC<HeaderProps> = ({ onOpenOrder }) => {
   const [isOpen, setIsOpen] = useState(false);
 
+  React.useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [isOpen]);
+
   return (
     <>
       <nav className="fixed top-6 left-0 right-0 z-50 px-4 flex justify-center">

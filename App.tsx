@@ -16,7 +16,7 @@ function App() {
   const closeOrderModal = () => setIsOrderModalOpen(false);
 
   return (
-    <div className="min-h-screen bg-zinc-950 flex flex-col font-sans">
+    <div className="min-h-screen bg-zinc-950 flex flex-col font-sans overflow-x-hidden">
       <Header onOpenOrder={openOrderModal} />
       <main className="flex-grow">
         <Hero onOpenOrder={openOrderModal} />

@@ -10,8 +10,8 @@ export const Footer: React.FC<FooterProps> = ({ onOpenOrder }) => {
   return (
     <footer className="bg-[#C0182A] text-white pt-20 pb-10 px-4">
       <div className="max-w-4xl mx-auto text-center">
-        <h2 className="text-5xl md:text-6xl font-black mb-2 tracking-tight">Make your first</h2>
-        <h2 className="text-5xl md:text-6xl font-black mb-10 tracking-tight">impression count.</h2>
+        <h2 className="text-4xl md:text-6xl font-black mb-2 tracking-tight">Make your first</h2>
+        <h2 className="text-4xl md:text-6xl font-black mb-10 tracking-tight">impression count.</h2>
         
         <div className="mb-16">
             <Button variant="dark" className="px-10 py-4 text-lg" onClick={onOpenOrder}>Let's do this!</Button>

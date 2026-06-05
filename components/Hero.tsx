@@ -33,7 +33,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrder }) => {
         
         {/* Left Content */}
         <div className="space-y-8">
-          <h1 className="text-5xl sm:text-6xl font-black leading-tight text-white">
+          <h1 className="text-4xl sm:text-6xl font-black leading-tight text-white">
             You only get one <br />
             <span className="text-[#C0182A]">first impression.</span> <br />
             Make it count.
@@ -102,7 +102,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrder }) => {
             </div>
 
              {/* Floating stats card */}
-             <div className="absolute -bottom-6 -left-6 z-20 bg-[#1A1A1A] p-4 rounded-xl shadow-xl border border-zinc-700 w-48 animate-pulse-slow">
+             <div className="absolute -bottom-6 left-4 sm:-left-6 z-20 bg-[#1A1A1A] p-4 rounded-xl shadow-xl border border-zinc-700 w-48 animate-pulse-slow">
                 <div className="flex justify-between items-center mb-2">
                     <span className="text-zinc-400 text-xs">Views Gained</span>
                     <span className="text-green-500 text-xs">+124%</span>
