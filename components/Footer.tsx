@@ -36,7 +36,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenOrder }) => {
 
             <div className="flex gap-6 items-center">
                 <a 
-                  href="https://www.instagram.com/gfx.aswin/" 
+                  href="https://www.instagram.com/asw.indsgn/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="hover:scale-110 transition-transform"
