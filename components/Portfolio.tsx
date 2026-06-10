@@ -23,9 +23,7 @@ const thumbnails = [
   "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840288/new_irl_s0z00j.png",
   "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840287/gadget_n5heg7.png",
   "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840285/watch_j5xqxf.jpg",
-  "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840285/skashi_final_vi_bxseke.png",
-  "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840285/valio_gi_locceh.png",
-  "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840283/12_xpewrq.jpg"
+  "https://res.cloudinary.com/dcnz8e0nz/image/upload/f_auto,q_auto,w_500/v1768840285/valio_gi_locceh.png"
 ];
 
 // Poster images (portrait 9:16) — add your poster URLs here
