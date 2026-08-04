@@ -1,7 +1,6 @@
 import React from 'react';
 
 const thumbnails = [
-  "/gta_thumbnail.jpg",
   "/doomsday.jpg",
   "/robot_gun.jpg",
   "/basketball_vs.jpg",
