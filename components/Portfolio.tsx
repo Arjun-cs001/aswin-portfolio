@@ -1,6 +1,8 @@
 import React from 'react';
 
 const thumbnails = [
+  "/thumbnail_songbattles.jpg",
+  "/thumbnail_24hour.jpg",
   "/thumbnail_100hours.jpg",
   "/thumbnail_thor.jpg",
   "/thumbnail_spiderman.jpg",
